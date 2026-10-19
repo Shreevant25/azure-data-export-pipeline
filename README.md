@@ -63,12 +63,13 @@ Screenshots included in the GitHub repo:
 
 •	datasets.png
 
+
 •	pipeline-structure.png
 
 •	monitor-results.png
 ________________________________________
 Author
 
-Samiksha Kharche
+Shreevant Jaiswal
 
 This project helped me explore cloud-based data pipelines and real-world data integration using Azure tools.
